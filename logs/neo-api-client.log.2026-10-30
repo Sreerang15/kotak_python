@@ -1,0 +1,1 @@
+{"url": "wss://sfeed.kotaksecurities.com/apifeed", "reconnect_count": 0, "event": "sfeed_disconnected", "environment": "prod", "level": "warning", "logger": "neo_api_client.websocket.feed.client", "app": "neo_api_client", "timestamp": "2026-10-30T11:07:40.152129+05:30"}
